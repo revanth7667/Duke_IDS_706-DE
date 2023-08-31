@@ -1,8 +1,6 @@
-name : Github Actions Test
-run-name : ${{ github.actor }} is testing out GitHub Actions 🚀
-name: Lint
+name: Format Code using Black
 
-on: [push, pull_request]
+on: [push]
 
 jobs:
   lint:
