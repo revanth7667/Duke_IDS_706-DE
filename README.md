@@ -1,4 +1,4 @@
-# Duke_IDS_706_DE
+# Duke_IDS_706-DE
 Repository for MIDS Data Engineering
 
 This Template will we used for all Python codes in the Data Engineering Class
