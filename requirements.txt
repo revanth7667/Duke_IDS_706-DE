@@ -1,0 +1,7 @@
+Create a python Github template which will be used for the python codes in the Data Engineering Class
+Requiremnts of the Repository/Template:
+-devcontainer
+-makefile
+-Github Actions
+-requirements.txt
+-README.md
