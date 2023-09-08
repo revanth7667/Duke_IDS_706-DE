@@ -29,3 +29,5 @@ Date Created: 2023-08-31
    This repository is used only as a template, however the following 2 files are present which will be used for testing and as an example:
    - ``example.py`` : this file contains the actual code for the project. for this example, we use a simple functions which returns the sum of 2 numbers
    - ``test_example.py`` : this file is used for testing and it contains the test conditions and the expected output from the example.py code for the given cases.
+Sample execution of test file:
+![test_output](https://github.com/revanth7667/Duke_IDS_706-DE/blob/b9458e52425edd27e36ca013af8c894a553c2ac1/resources/test_output.png)
