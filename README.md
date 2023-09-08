@@ -7,7 +7,7 @@ Date Created: 2023-08-31
 ## 1. README.md
    contains the information about the repository and instructions for using it
 ## 2. requirements.txt
-   contains list of packages and libraries which are required for running the project. 
+   contains the list of packages and libraries which are required for running the project. 
    
    **Note** limited items have been added as this is an example repository, the list will be updated as per the requirements over time
    
@@ -25,9 +25,9 @@ Date Created: 2023-08-31
    contains the instructions for the processes used in github actions
 ## 5. .devcontainer
    contains the ``dockerfile`` and ``devcontainer.json`` files which are used to build and define the setting of the virtual environment (codespaces - python) for running the code.
-## 6. code files
+## 6. Python files
    This repository is used only as a template, however the following 2 files are present which will be used for testing and as an example:
-   - ``example.py`` : this file contains the actual code for the project. for this example, we use a simple functions which returns the sum of 2 numbers
+   - ``example.py`` : this file contains the actual code for the project. For this example, we use a simple function which returns the sum of 2 numbers
    - ``test_example.py`` : this file is used for testing and it contains the test conditions and the expected output from the example.py code for the given cases.
 Sample execution of test file:
 ![test_output](https://github.com/revanth7667/Duke_IDS_706-DE/blob/b9458e52425edd27e36ca013af8c894a553c2ac1/resources/test_output.png)
