@@ -1,5 +1,7 @@
-#Formatting
+#Devops
 black
+pytest
+pylint
 
 #Data Science
 jupyter
@@ -7,6 +9,3 @@ pandas
 numpy
 scikit-learn
 matplotlib
-seaborn
-dask
-math
