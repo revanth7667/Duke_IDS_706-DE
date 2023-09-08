@@ -10,9 +10,10 @@ Date Created: 2023-08-31
 ## 3. github_actions.yml
    github actions is used to automate the following 4 actions whenever a change is made to the files in the repository:
    - ``install`` : the packages and libraries mentioned in the requirements.txt
+   - ``format`` : uses black to format the python files
    - ``lint`` : uses pylint to lint the python files
    - ``test`` : uses pytest to test the pyhton code using the test_* files to call the main files
-   - ``format`` : uses black to format the python files
+   
 ## 4. Makefile
    contains the instructions for the processes used in github actions
 ## 5. .devcontainer
