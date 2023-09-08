@@ -13,10 +13,10 @@ Date Created: 2023-08-31
    
 ## 3. github_actions.yml
    github actions is used to automate the following 4 actions whenever a change is made to the files in the repository:
-   - ``install`` : the packages and libraries mentioned in the requirements.txt
+   - ``install`` : installs the packages and libraries mentioned in the requirements.txt
    - ``format`` : uses black to format the python files
    - ``lint`` : uses pylint to lint the python files
-   - ``test`` : uses pytest to test the pyhton code using the test_* files to call the main files
+   - ``test`` : uses pytest to test the python codes using the test_* files to test the main files
      
    **Note** -if all the processes run successfully the following output will be visible in github actions:
    ![Success Build](https://github.com/revanth7667/Duke_IDS_706-DE/blob/91e617109f29e19f2a4392bc4f638c7c4f682457/resources/successfull_build.png)
@@ -24,11 +24,8 @@ Date Created: 2023-08-31
 ## 4. Makefile
    contains the instructions for the processes used in github actions
 ## 5. .devcontainer
-   contains the ``dockerfile`` and ``devcontainer.json`` files which are used to build and define the setting of the virtual environment (codespaces) for running the code.
+   contains the ``dockerfile`` and ``devcontainer.json`` files which are used to build and define the setting of the virtual environment (codespaces - python) for running the code.
 ## 6. code files
    This repository is used only as a template, however the following 2 files are present which will be used for testing and as an example:
    - ``example.py`` : this file contains the actual code for the project. for this example, we use a simple functions which returns the sum of 2 numbers
-   - ``test_example.py`` : this file is used for testing and it contains the test conditions and the expected output from the example.py code for the given cases. 
-
-
-![MIDS LOGO](https://github.com/revanth7667/Duke_IDS_706-DE/blob/14892899c6f7dadcb3a6e99f7f74844bd1019314/resources/Duke-MIDS-logo-social.jpg)
+   - ``test_example.py`` : this file is used for testing and it contains the test conditions and the expected output from the example.py code for the given cases.
