@@ -6,7 +6,7 @@ Date Created: 2023-08-31
 ## 1. README.md
    contains the information about the repository and instructions for using it
 ## 2. requirements.txt
-   contains list of packages and libraries which are required for running the project. The list will be updated as per the requirements over time
+   contains list of packages and libraries which are required for running the project. Note: limited items have been added as this is an example repository, the list will be updated as per the requirements over time
 ## 3. github_actions.yml
    github actions is used to automate the following 4 actions whenever a change is made to the files in the repository:
    - ``install`` : the packages and libraries mentioned in the requirements.txt
