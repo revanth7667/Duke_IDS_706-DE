@@ -10,5 +10,5 @@ def test_example():
     assert custom_add(-1,-3) == -4
     assert custom_add(0,0) == 0
 
-if __name__ == ""__main__"":
+if __name__ == "__main__":
     test_example()
