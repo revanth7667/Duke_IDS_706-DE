@@ -15,6 +15,8 @@ Date Created: 2023-08-31
    - ``format`` : uses black to format the python files
    - ``lint`` : uses pylint to lint the python files
    - ``test`` : uses pytest to test the pyhton code using the test_* files to call the main files
+   if all the processes run successfully the following output will be visible in github actions:
+   ![Success Build](https://github.com/revanth7667/Duke_IDS_706-DE/blob/91e617109f29e19f2a4392bc4f638c7c4f682457/resources/successfull_build.png)
    
 ## 4. Makefile
    contains the instructions for the processes used in github actions
