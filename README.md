@@ -26,4 +26,4 @@ Date Created: 2023-08-31
    - ``test_example.py`` : this file is used for testing and it contains the test conditions and the expected output from the example.py code for the given cases. 
 
 
-![MIDS LOGO]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/revanth7667/Duke_IDS_706-DE/blob/14892899c6f7dadcb3a6e99f7f74844bd1019314/resources/Duke-MIDS-logo-social.jpg) "MIDS LOGO")
+[MIDS LOGO]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/revanth7667/Duke_IDS_706-DE/blob/14892899c6f7dadcb3a6e99f7f74844bd1019314/resources/Duke-MIDS-logo-social.jpg) "MIDS LOGO")
